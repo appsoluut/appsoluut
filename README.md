@@ -7,7 +7,7 @@ _Android Engineer at DPG Media - Passionate about mobile development and learnin
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/paul.hameteman/)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/352797/piro?tab=profile)](https://stackoverflow.com/users/352797/piro?tab=profile)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=appsoluut&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=appsoluut&show_icons=true&count_private=true&theme=cobalt)
 
 ⭐️ From [appsoluut](https://github.com/appsoluut)
 
