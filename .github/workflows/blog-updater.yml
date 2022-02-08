@@ -18,5 +18,6 @@ jobs:
         with:
           USERNAME: ${{ secrets.HASHNODE_USERNAME }} # Hashnode Username
           COUNT: 10 # MAX Visisble
+          BLOG_URL: "https://hameteman.com/"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
