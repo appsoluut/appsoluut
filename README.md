@@ -3,6 +3,9 @@ _Android Engineer at DPG Media - Passionate about mobile development and learnin
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [How-to not clear the logcat on a crash](https://piro.hashnode.dev/how-to-not-clear-the-logcat-on-a-crash-ckz2rki000cq9ifs11ttc8jo9)
+- [Android Jetifier — Can we say Bye-Bye yet](https://piro.hashnode.dev/android-jetifier-can-we-say-bye-bye-yet-ckz3ryhz701881gs19e8i6y3z)
+- [Gson using AutoValue and Polymorphism](https://piro.hashnode.dev/gson-using-autovalue-and-polymorphism-ckz3yt7vp01gehis1376cbaik)
 <!-- HASHNODE_BLOG:END -->
 
 ### Let's connect:
