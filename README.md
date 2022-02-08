@@ -1,6 +1,10 @@
 ### Hi there 👋
 _Android Engineer at DPG Media - Passionate about mobile development and learning._
 
+### My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
+
 ### Let's connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulhameteman/)
 [![Twitter](https://img.shields.io/twitter/follow/piromaan?label=Twitter&style=social)](https://twitter.com/piromaan)
