@@ -3,9 +3,9 @@ _Android Engineer at DPG Media - Passionate about mobile development and learnin
 
 ### My latest blog posts 📖
 <!-- HASHNODE_BLOG:START -->
-- [How-to not clear the logcat on a crash](https://hameteman.com//how-to-not-clear-the-logcat-on-a-crash)
-- [Android Jetifier — Can we say Bye-Bye yet](https://hameteman.com//android-jetifier-can-we-say-bye-bye-yet)
-- [Gson using AutoValue and Polymorphism](https://hameteman.com//gson-using-autovalue-and-polymorphism)
+- [How-to not clear the logcat on a crash](https://hameteman.com/how-to-not-clear-the-logcat-on-a-crash)
+- [Android Jetifier — Can we say Bye-Bye yet](https://hameteman.com/android-jetifier-can-we-say-bye-bye-yet)
+- [Gson using AutoValue and Polymorphism](https://hameteman.com/gson-using-autovalue-and-polymorphism)
 <!-- HASHNODE_BLOG:END -->
 
 ### Let's connect 🔗
