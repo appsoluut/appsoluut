@@ -1,5 +1,5 @@
 ### Hi there 👋
-_Android Engineer at DPG Media - Passionate about mobile development and learning._
+_Android Engineer at Nederlandse Spoorwegen (Dutch Railways) - Passionate about mobile development and learning._
 
 ### My latest blog posts 📖
 <!-- HASHNODE_BLOG:START -->
