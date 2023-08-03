@@ -18,6 +18,8 @@ _Android Engineer at Nederlandse Spoorwegen (Dutch Railways) - Passionate about 
 ![github stats](https://github-readme-stats.vercel.app/api?username=appsoluut&show_icons=true&count_private=true&theme=cobalt)
 ![github_streak](https://github-readme-streak-stats.herokuapp.com/?user=appsoluut&theme=dark)
 
+![github_trophies](https://github-profile-trophy.vercel.app/?username=appsoluut&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+
 ⭐️ From [appsoluut](https://github.com/appsoluut)
 
 <!--
