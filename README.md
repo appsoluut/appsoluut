@@ -3,6 +3,7 @@ _Android Engineer at Nederlandse Spoorwegen (Dutch Railways) - Passionate about 
 
 ### My latest blog posts 📖
 <!-- HASHNODE_BLOG:START -->
+- [An Introduction to Paparazzi for Snapshot Testing](https://hameteman.com/an-introduction-to-paparazzi-for-snapshot-testing)
 - [10 Tips to stay a Happy Developer](https://hameteman.com/10-tips-to-stay-a-happy-developer)
 - [How-to not clear the logcat on a crash](https://hameteman.com/how-to-not-clear-the-logcat-on-a-crash)
 - [Android Jetifier — Can we say Bye-Bye yet](https://hameteman.com/android-jetifier-can-we-say-bye-bye-yet)
